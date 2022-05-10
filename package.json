@@ -1,0 +1,17 @@
+{
+  "name": "nodemailer",
+  "version": "1.0.0",
+  "description": "Send email using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vier",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "nodemailer": "^6.7.4",
+    "telegraf": "^4.8.1"
+  }
+}
